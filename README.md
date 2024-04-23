@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/jaimul-islam-akik-8681a3292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://imgs.search.brave.com/kNuo2XH2E17knYD5gMwsWJDCTRrEsiuT3uzio5Z6fJg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9MaW5rZWRJ/bi9MaW5rZWRJbi1M/b2dvLndpbmUuc3Zn.svg"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
 
