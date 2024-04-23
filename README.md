@@ -17,7 +17,7 @@
    <a href="https://www.facebook.com/akik404?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="www.linkedin.com/in/jaimul-islam-akik-8681a3292">
+   <a href="https://www.linkedin.com/in/jaimul-islam-akik-8681a3292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
