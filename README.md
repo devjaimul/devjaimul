@@ -20,6 +20,9 @@
    <a href="https://www.linkedin.com/in/jaimul-islam-akik-8681a3292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
+  <a href="https://medium.com/@jaimulislam7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
 ### Languages and Tools:
